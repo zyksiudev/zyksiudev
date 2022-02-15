@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zyksiudev and my friend @kofciodev
 - 👀 We interested in java/html/css/js/php 
 - 🌱 We currently learning java/css/php
-- 💞️ We looking to collaborate on small workplace to start :D
+- 💞️ We looking to collaborate in programming 
 - 📫 How to reach us?Just write zyksiu#4200 or Kofcio26#0161
 
 <!---
